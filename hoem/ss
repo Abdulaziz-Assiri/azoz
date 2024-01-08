@@ -1,1 +1,2 @@
 System.out.println("Hello World!");
+sudo apt install git // this command will install git app on your system
